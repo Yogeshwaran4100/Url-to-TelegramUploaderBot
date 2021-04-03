@@ -1,13 +1,17 @@
 class Translation(object):
     START_TEXT = """Ciao😁,
 This is <b>🌩Saviour Coders' URL Uploader Bot🌩.</b>
+
 <i>🔥Send any link and it will be uploaded as File/Video.
 🔥YouTube videos can also be uploaded using this bot.</i>
+
 <b>Click👉</b> /help for more details.
+
 <b>Features of the bot:</b>
 <i>🌈Superfast
 🌈Responsive 
 🌈Easy to use</i>
+
 <b>Support Group</b> :- 🐠@ubuntu_coders🐠
 <b>Support Channel</b> :- 🐬@UC_bot_channel🐬
 <b>My Master</b> :- ⛵️@saviour_coder⛵️"""
@@ -22,8 +26,8 @@ URL | filename | username | password"""
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @TGBotsZ"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @TGBotsZ \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @UC_bot_channel"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @UC_bot_channel \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
