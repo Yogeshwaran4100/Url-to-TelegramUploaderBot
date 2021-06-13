@@ -1,11 +1,8 @@
-<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/1e03c485dfc2794b1b8a4.jpg" width="5000"></a></p> 
-<h1 align="center"><b>Saviour_Coder-URL-Uploader-BOT 🇮🇳 </b></h1>
+<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/Dp-06-13" width="5000"></a></p> 
+<h1 align="center"><b>Yv-URL-Uploader-BOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simpe URL Uploader Bot.</h4>
 
 
-## Support 🚑
-<a href="https://t.me/UC_bot_channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## I'm just a student who just want to learn coding!!
 
