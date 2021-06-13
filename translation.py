@@ -1,20 +1,14 @@
 class Translation(object):
-    START_TEXT = """Ciao😁,
-This is <b>🌩Saviour Coders' URL Uploader Bot🌩.</b>
-
+    START_TEXT = """வணக்கம்😁,
+This is <b>🌩Yv URL Uploader Bot🌩.</b>
 <i>🔥Send any link and it will be uploaded as File/Video.
 🔥YouTube videos can also be uploaded using this bot.</i>
-
 <b>Click👉</b> /help for more details.
-
 <b>Features of the bot:</b>
 <i>🌈Superfast
 🌈Responsive 
 🌈Easy to use</i>
-
-<b>Support Group</b> :- 🐠@ubuntu_coders🐠
-<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
-<b>My Master</b> :- ⛵️@saviour_coder⛵️"""
+<b>Support Leech Group</b> :- @cloud_torrent🔥"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -43,7 +37,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hi, I am 🥇Saviour Coders' URL Uploader bot🥇.
+    HELP_USER = """Hi, I am 🥇Yv URL Uploader bot🥇.
     
 <i>1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -53,9 +47,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>Support Group</b> :- 🐠@ubuntu_coders🐠
-<b>Support Channel</b> :- 🐬@UC_bot_channel🐬
-<b>My Master</b> :- ⛵️@saviour_coder⛵️"""
+<b>Support Group</b> :- 🐠@cloud_torrent🐠"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
